@@ -1,0 +1,101 @@
+<html>
+
+<head>
+    <title> Project 1 </title>
+
+
+
+    <h2> A loading page </h2>
+
+    <img src="IOS loading screen.png" alt="IOS Loading Page" width="180" height="200">
+    <img src="Android loading screen.png" alt="Android Loading Page" width="180" height="200">
+    <img src="" alt="" width="500" height="200">
+
+    <p>For the loading page, I put a loading circle for the iphone and android to show to the viewer that the
+        application is loading. For the browser I changed it up and put a sentence stating the website is loading and telling the
+        viewer to be patient. I wanted to keep the IOS and android similar in the app due to most applications on devices being similar,
+        the developers would not change anything, it is only whenever it gets to desktop it has to change due to devices not
+        having the same power as hand held and some things not looking properly. The design is supposed to be simple and have
+        a minimalist feel, it is only the loading page. I don't want to do to much to maybe annoy anyone or make people loose
+        interest. The difference between the ios and android is the layout even though they are similar in design the layout is completely different.
+        IOS having a swipe up feature to close tabs and a home page, android has 3 buttons at the bottom like the return button, home button and tab button.</p>
+
+
+
+
+    <h2> A Login page </h2>
+
+    <img src="IOS sign in screen.png" alt="IOS Login page" width="180" height="200">
+    <img src="Android sign in screen.png" alt="Android Login Page" width="180" height="200">
+    <img src="Windows login page.png" alt="Windows Login Page" width="500" height="200">
+
+
+    <p>The login page is similar to the loading page in many ways, the android and ios being similar due to the spacing
+        and not needing to be busy with a lot going on. It is only a login page so there is plenty of similarities going on. The only
+        major differences is the layout between IOS and android again. The desktop goes through differences unlike the others with sign up options
+        such as the google, facebook and apple made to add variety for the customers whenever they login. For the desktop I added a link that leads to 
+        the setup page for new users of Dining Square. The differences in layouts really show here, you can see some stuff that the desktop has opposed to the other
+        devices simply due to spacing and computers having more complete instructions.
+    </p>
+
+    <h2> A Setup page </h2>
+
+    <img src="IOS sign up screen.png" alt="IOS Setup page" width="180" height="200">
+    <img src="Android sign up screen.png" alt="Android Setup Page" width="180" height="200">
+    <img src="Windows sign in page.png" alt="Windows Setup Page" width="500" height="200">
+
+    <p>The setup page is different, it asks the user to sign up for the application. It asks the user for their
+    personal information including their name, email, password and zip code. All of these are usually required for
+    signing up with a new application. On all devices, I left an option for people that already have an account so they
+    don't need to go through the sign up options twice. Design wise, The android and IOS layouts are similar again. The only difference between them is their layouts
+    like mentioned before, they have different tools at the bottom of their screens and look different with the IOS having a more simplistic look. The desktop is a lot like
+    the android and IOS, the only difference is that is was able to squeeze in the logo beside the sign up information.</p>
+
+
+    <h2> Find a restaurant page </h2>
+
+    <img src="IOS location screen.png" alt="IOS Find a restaurant page" width="180" height="200">
+    <img src="Android find a restaurant screen.png" alt="Android Find a restaurant Page" width="180" height="200">
+    <img src="Windows restaurant location page.png" alt="Windows Find a restaurant Page" width="500" height="200">
+
+    <p> The restaurant finding page is a design that is clean and supposed to be simple for others to understand, for myself I have realized that mapping and applications are sometimes 
+        tricky and confusing due to there being so much information and trying to find the right place. My design is simplistic for both the android and IOS, they have maps with other locations available
+        and shows addresses for the location one presses on. A search bar was implemented for places not viewable on the map and a option for the closes restaurant for the customer is there as well. The desktop
+        is slightly different it has the time available for the restaurants and has filters to help the customers know what they are getting into in terms of pricing and experiences.
+    </p>
+
+    <h2> A individual restaurant page </h2>
+
+    <img src="IOS store front screen.png" alt="IOS individual restaurant page" width="180" height="200">
+    <img src="Andorid restaurant store front.png" alt="Android individual restaurant Page" width="180" height="200">
+    <img src="Windows restaurant store front page.png" alt="Windows individual restaurantPage" width="500" height="200">
+
+
+    <p> The restaurant page is one I like because there is a lot going on but it all seems to make sense, for android and IOS the logo of the restaurant is there with the saying "Suited for the high class and luxurious"
+        the cuisine is there with pricing too. That touch was important because customers like to know that information ahead of time. Mapping is available in case others don't want to go all the way to the previous page to get 
+        the map plus the address is there with it. The desktop is similar with other devices the only differences is the desktop showing a little peak of their meals and it stating customers need to scroll down to see reviews and comments
+        about the restaurant, unlike the other devices where just pressing a button is necessary. </p>
+
+    <h2> Leave a Review page </h2>
+
+    <img src="IOS review page.png" alt="IOS Leave a Review page" width="180" height="200">
+    <img src="Android review screen.png" alt="Android Leave a Review Page" width="180" height="200">
+    <img src="Windows review page.png" alt="Windows Leave a Review Page" width="500" height="200">
+
+    <p> The review page is supposed to be similar for both android and IOS because I knew they don't need to be strongly different because it would make it too busy for a review page, a review page is meant to be simplistic. The only thing
+        that matters is the customers opinions and I do not want to take that away from them. Stars are on the page to shows customers how people felt about their experiences. A comments section is available so anyone can state their opinions
+        and an avatar is beside the comment so you can make yourself identifiable, others comments are below and their star rating follows with the restaurants current rating. </p>
+
+
+    <h2> Settings page </h2>
+
+    <img src="IOS setting page.png" alt="IOS settings page" width="180" height="200">
+    <img src="Android Setting page.png" alt="Android settings page" width="180" height="200">
+    <img src="Windows review page.png" alt="Windows settings page" width="500" height="200">
+
+    <p> Lastly, the settings page is a lot like the review page, not much going on and simplistic for customers understanding. The settings cover all from account,
+        notifications, languages, security, terms and services, about and logging out. The buttons for each setting is simple and leads to its own function. The desktop version has little differences, it still has plenty of the same settings but
+        it has colors instead of notifications due to notifications being a thing more on devices, emails would suit desktops more. I put "More information about Dining Square" in the area where about is usually intuited because "about" is a thing 
+        that is on devices as well. </p>
+
+        <p> The sites I used were the ones given such as https://www.figma.com/community/file/1121065701252736567 and https://www.figma.com/community/file/1002824350616672520. I used another site called Nucleo, this site is used to get the icons and logos that android devices and IOS use.</p>```
